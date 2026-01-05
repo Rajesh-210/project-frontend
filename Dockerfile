@@ -10,6 +10,9 @@ RUN npm ci
 # Copy source code
 COPY . .
 
+# 🔑 FIX permission issue INSIDE docker build
+RUN chmod +x node_modules/.bin/vite
+
 # Build the Vite app
 RUN npm run build
 
