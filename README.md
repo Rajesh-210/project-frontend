@@ -1,4 +1,4 @@
-===================================================================================================================================================================================
+
   It is written exactly at a DevOps / Jenkins / Docker project level.
 
 # Project Frontend – CI/CD with Jenkins & Docker
