@@ -311,6 +311,9 @@ End User Browser
 CI/CD automation
 
 Docker multi-stage builds
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37b33bb3-3d73-48e2-8f91-ef0b71e62700" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37b33bb3-3d73-48e2-8f91-ef0b71e62700" />
+
 
 Immutable deployments
 
